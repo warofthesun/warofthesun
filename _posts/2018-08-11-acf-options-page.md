@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating an ACF Options Page"
+title:  Creating an ACF Options Page
 date:   2018-08-11 14:49:23 -0500
 categories: wordpress acf
 ---

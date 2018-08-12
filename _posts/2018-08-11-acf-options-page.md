@@ -30,6 +30,6 @@ if( function_exists(‘acf_add_options_page’) ) {
 
 Once you save and reload you’ll see this in your admin.
 
-![Initial Options Page](../images/options-1.png)
+![Initial Options Page](images/options-1.png)
 
 Cool huh? No surprise that you don’t have any Field Groups yet since you likely haven’t assigned any. We’ll get to that in a second.

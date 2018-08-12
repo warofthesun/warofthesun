@@ -18,9 +18,8 @@ With an actual Options Page all of the field information is available globally s
 
 Pretty handy right? Let’s get it hooked up.
 
-{% highlight ruby %}
+
 _P.S. This lil' beauty is only available if you have ACF Pro or the Options Page Add-on but really, you should have already purchased Pro by now because it's wonderful and terrific and a bargain at twice the price._{: .test_class}
-{% endhighlight %}
 
 
 

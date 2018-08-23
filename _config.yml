@@ -16,7 +16,7 @@
 title: Not For Lack of Trying
 email: daniel@thesplitpixel.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eventually this will be a stash of things I find useful and/or use repeatedly.
+  A randomly updated stash of things I find useful and/or use repeatedly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fireflip

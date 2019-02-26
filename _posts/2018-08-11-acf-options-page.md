@@ -28,7 +28,7 @@ _P.S. This lil' beauty is only available if you have ACF Pro or the Options Page
 Turning on the Options… option is super simple. Just add the following lil’ bite of code to your `functions.php` file.
 
 ```
-if( function_exists(‘acf_add_options_page’) ) {
+if( function_exists('acf_add_options_page') ) {
 	acf_add_options_page();
 }
 ```

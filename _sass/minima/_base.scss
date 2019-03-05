@@ -8,6 +8,11 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+$base-font-family: 'Cabin', sans-serif;
+$header-font-family: 'Roboto Condensed', sans-serif;
+$display-font-family: 'Permanent Marker', cursive;
+
+$accent: #FE4365;
 
 
 /**
@@ -23,6 +28,7 @@ body {
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
+  letter-spacing: .5px;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -94,6 +100,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
   font-weight: $base-font-weight;
 }
 
@@ -133,7 +140,7 @@ blockquote {
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  letter-spacing: .5px;
   font-style: italic;
 
   > :last-child {

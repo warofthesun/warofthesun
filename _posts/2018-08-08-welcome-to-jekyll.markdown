@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-08-08 13:49:23 -0500
 categories: jekyll update
+published: false
 ---
 `bundle exec jekyll serve`
 
